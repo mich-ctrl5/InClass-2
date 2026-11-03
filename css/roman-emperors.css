@@ -1,0 +1,16 @@
+body {
+  margin: 100px 200px;
+  background-color: #FFF3EB;
+}
+
+img {
+  margin-left: 20px;
+}
+
+#top-portrait {
+  border: 10px black grooved;
+}
+
+.emperor-portrait {
+  border: 5px black double;
+}
